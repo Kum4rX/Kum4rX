@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumara swamy</h1>
-<h3 align="center"> CS Student | DSA & AI | Web3 🚀</h3>
+<h3 align="center"> CS Student | DSA & AI | Web3 </h3>
 
 - 📫 How to reach me **kumarmanikala007@gmail.com**
 
