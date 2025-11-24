@@ -21,7 +21,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" />
 
-- 🔭 I’m currently working on **Full Stack Development, AI Agent LLM Development, AI ML Engineering**
+- 🔭 I’m currently working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🌱 I’m currently learning **Cloud Technologies & Microservices**
 - 💬 Ask me about **MERN Stack, Next.js, TypeScript, Supabase, System Administration**
