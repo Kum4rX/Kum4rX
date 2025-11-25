@@ -12,7 +12,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kum4rX&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Kum4rX)
 
-<a href="https://github.com/Kum4rX"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kumara-swamy-manikala/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Kum4rX/"><img align="right" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" /></a>
 
 ---
