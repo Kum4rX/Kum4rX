@@ -21,10 +21,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" />
 
-- 🔭 I’m currently working on **Full Stack Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🌱 I’m currently learning **Cloud Technologies**
-- 💬 Ask me about **MERN Stack**
+- 💻 Skilled in MERN Stack, Java, and Data Structures & Algorithms
+- 🌱 Currently learning advanced Full Stack 
+- 🤝 Interested in Open Source contributions
+- 🧠 Passionate about problem-solving and scalable web applications
 - 📫 Reach me at: **kumarmanikala007@gmail.com**
 
 ---
