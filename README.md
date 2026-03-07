@@ -24,7 +24,7 @@
 - 💻 Skilled in MERN Stack
 - 🌱 Currently learning advanced Full Stack 
 - 🤝 Interested in Open Source contributions
-- 🧠 Passionate about problem-solving and scalable web applications
+- 🧠 Passionate about Problem-Solving and scalable web applications
 - 📫 Reach me at: **kumarmanikala007@gmail.com**
 
 ---
