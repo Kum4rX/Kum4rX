@@ -1,4 +1,8 @@
-[![An image of @kum4rx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kum4rx)](https://holopin.io/@kum4rx)
+<p align="center">
+  <a href="https://holopin.io/@kum4rx">
+    <img src="https://holopin.io/api/user/kum4rx" />
+  </a>
+</p>
 
 
 <!-- Header Typing Animation -->
