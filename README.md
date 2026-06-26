@@ -23,11 +23,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" />
 
-- 💻 Skilled in MERN Stack
-- 🌱 Currently learning advanced Full Stack 
-- 🤝 Interested in Open Source contributions
-- 🧠 Passionate about Problem-Solving and scalable web applications
-- 📫 Reach me at: **kumarmanikala007@gmail.com**
+- 2× International Hackathon Winner
+- Building scalable software and AI-powered applications
+- Open to new opportunities and collaborations
+- Reach me at: **kumarmanikala007@gmail.com**
 
 ---
 
