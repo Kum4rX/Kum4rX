@@ -22,12 +22,13 @@
 ## 🤖 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" />
+
 - Final-Year B.Tech CSE (AI) Student
 - 2× International Hackathon Winner
-- Software Engineer|Full-Stack Developer|AI Engineer
+- Software Engineer | Full-Stack Developer | AI Engineer
 - Building scalable software and AI-powered applications
 - Open to new opportunities and collaborations
-- Reach me at: **kumarmanikala007@gmail.com**
+- Reach me at :  **kumarmanikala007@gmail.com**
 
 ---
 
@@ -44,7 +45,5 @@
 
 ### 🎨 Additional Skill 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-
----
 
 ---
